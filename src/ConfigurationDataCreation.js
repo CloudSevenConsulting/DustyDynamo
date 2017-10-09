@@ -6,12 +6,12 @@ var dynamodb = new AWS.DynamoDB();
 var params = {
 TableName : "ConfigurationData",
 KeySchema: [
-{ AttributeName: "MoteID", KeyType: "HASH"}, //Partition key
-{ AttributeName: "MoteTimestamp", KeyType: "RANGE" } //Sort key
+{ AttributeName: "MoteTimestamp", KeyType: "HASH" }, //Partition key
+{ AttributeName: "MoteID", KeyType: "RANGE"} //Sort key
 ],
 AttributeDefinitions: [
-{ AttributeName: "MoteID", AttributeType: "N" },
-{ AttributeName: "MoteTimestamp", AttributeType: "S" }
+{ AttributeName: "MoteTimestamp", AttributeType: "S" },
+{ AttributeName: "MoteID", AttributeType: "N" }
 ],
 ProvisionedThroughput: {
 ReadCapacityUnits: 10,

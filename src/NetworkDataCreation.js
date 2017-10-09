@@ -6,12 +6,12 @@ var dynamodb = new AWS.DynamoDB();
 var params = {
 TableName : "NetworkData",
 KeySchema: [
-{ AttributeName: "MoteTimestamp", KeyType: "HASH"}, //Partition key
-{ AttributeName: "MoteID", KeyType: "RANGE" } //Sort key
+{ AttributeName: "MoteID", KeyType: "HASH" }, //Partition key
+{ AttributeName: "MoteTimestamp", KeyType: "RANGE"} //Sort key
 ],
 AttributeDefinitions: [
-{ AttributeName: "MoteTimestamp", AttributeType: "S" },
-{ AttributeName: "MoteID", AttributeType: "N" }
+{ AttributeName: "MoteID", AttributeType: "N" },
+{ AttributeName: "MoteTimestamp", AttributeType: "S" }
 ],
 ProvisionedThroughput: {
 ReadCapacityUnits: 10,
@@ -27,3 +27,4 @@ console.log("Created table. Table description JSON:", JSON.stringify(data,
 null, 2));
 }
 });
+

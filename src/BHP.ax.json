@@ -1,0 +1,3050 @@
+[
+{ 
+"MoteTimestamp": "2016-10-04 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.74,
+   "HighPrice": 22.950001,
+   "LowPrice": 22.67,
+   "ClosePrice": 22.85,
+   "Adj Close": 21.557446,
+   "VolumeNumber": 5852253
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.15,
+   "HighPrice": 23.26,
+   "LowPrice": 23.08,
+   "ClosePrice": 23.120001,
+   "Adj Close": 21.812174,
+   "VolumeNumber": 6839041
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-06 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.200001,
+   "HighPrice": 23.4,
+   "LowPrice": 23,
+   "ClosePrice": 23.299999,
+   "Adj Close": 21.981991,
+   "VolumeNumber": 9714517
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-09 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.4,
+   "HighPrice": 23.629999,
+   "LowPrice": 23.34,
+   "ClosePrice": 23.4,
+   "Adj Close": 22.076334,
+   "VolumeNumber": 4454837
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-10 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.73,
+   "HighPrice": 23.870001,
+   "LowPrice": 23.6,
+   "ClosePrice": 23.799999,
+   "Adj Close": 22.453707,
+   "VolumeNumber": 7712961
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-11 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.18,
+   "HighPrice": 23.440001,
+   "LowPrice": 23.01,
+   "ClosePrice": 23.440001,
+   "Adj Close": 22.114073,
+   "VolumeNumber": 9728971
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-12 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.110001,
+   "HighPrice": 23.219999,
+   "LowPrice": 22.67,
+   "ClosePrice": 22.75,
+   "Adj Close": 21.463102,
+   "VolumeNumber": 8918594
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-13 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.34,
+   "HighPrice": 22.59,
+   "LowPrice": 22.290001,
+   "ClosePrice": 22.540001,
+   "Adj Close": 21.264982,
+   "VolumeNumber": 8096297
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-16 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.35,
+   "HighPrice": 22.620001,
+   "LowPrice": 22.290001,
+   "ClosePrice": 22.389999,
+   "Adj Close": 21.123466,
+   "VolumeNumber": 5783552
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-17 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.299999,
+   "HighPrice": 22.66,
+   "LowPrice": 22.24,
+   "ClosePrice": 22.639999,
+   "Adj Close": 21.359325,
+   "VolumeNumber": 7468994
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-18 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.5,
+   "HighPrice": 22.530001,
+   "LowPrice": 22.040001,
+   "ClosePrice": 22.469999,
+   "Adj Close": 21.19894,
+   "VolumeNumber": 8395527
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.58,
+   "HighPrice": 23.025,
+   "LowPrice": 22.549999,
+   "ClosePrice": 22.85,
+   "Adj Close": 21.557446,
+   "VolumeNumber": 7935539
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-20 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.959999,
+   "HighPrice": 23.26,
+   "LowPrice": 22.91,
+   "ClosePrice": 23.040001,
+   "Adj Close": 21.7367,
+   "VolumeNumber": 7516483
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-23 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.030001,
+   "HighPrice": 23.190001,
+   "LowPrice": 22.76,
+   "ClosePrice": 23.09,
+   "Adj Close": 21.783869,
+   "VolumeNumber": 5666192
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-24 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23,
+   "HighPrice": 23.379999,
+   "LowPrice": 22.91,
+   "ClosePrice": 23.190001,
+   "Adj Close": 21.878214,
+   "VolumeNumber": 5682146
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-25 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.32,
+   "HighPrice": 23.42,
+   "LowPrice": 22.74,
+   "ClosePrice": 22.84,
+   "Adj Close": 21.548012,
+   "VolumeNumber": 12280202
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-26 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.08,
+   "HighPrice": 23.09,
+   "LowPrice": 22.51,
+   "ClosePrice": 22.51,
+   "Adj Close": 21.236679,
+   "VolumeNumber": 9878266
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-27 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.91,
+   "HighPrice": 23.030001,
+   "LowPrice": 22.629999,
+   "ClosePrice": 22.98,
+   "Adj Close": 21.680092,
+   "VolumeNumber": 14221794
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-30 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.9,
+   "HighPrice": 23.299999,
+   "LowPrice": 22.83,
+   "ClosePrice": 23.07,
+   "Adj Close": 21.765001,
+   "VolumeNumber": 6557680
+   }
+},
+{ 
+"MoteTimestamp": "2016-10-31 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.91,
+   "HighPrice": 22.950001,
+   "LowPrice": 22.549999,
+   "ClosePrice": 22.799999,
+   "Adj Close": 21.510275,
+   "VolumeNumber": 7767525
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-01 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.66,
+   "HighPrice": 22.879999,
+   "LowPrice": 22.52,
+   "ClosePrice": 22.559999,
+   "Adj Close": 21.283852,
+   "VolumeNumber": 6111127
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-02 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.5,
+   "HighPrice": 22.875,
+   "LowPrice": 22.43,
+   "ClosePrice": 22.66,
+   "Adj Close": 21.378195,
+   "VolumeNumber": 8241953
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-03 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.459999,
+   "HighPrice": 22.559999,
+   "LowPrice": 22.190001,
+   "ClosePrice": 22.27,
+   "Adj Close": 21.010256,
+   "VolumeNumber": 5131030
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-06 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.35,
+   "HighPrice": 22.75,
+   "LowPrice": 22.299999,
+   "ClosePrice": 22.700001,
+   "Adj Close": 21.415932,
+   "VolumeNumber": 7509508
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-07 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.16,
+   "HighPrice": 23.465,
+   "LowPrice": 23.110001,
+   "ClosePrice": 23.299999,
+   "Adj Close": 21.981991,
+   "VolumeNumber": 11117892
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-08 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.58,
+   "HighPrice": 23.9,
+   "LowPrice": 21.85,
+   "ClosePrice": 22.559999,
+   "Adj Close": 21.283852,
+   "VolumeNumber": 16019969
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-09 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.620001,
+   "HighPrice": 24.780001,
+   "LowPrice": 24.23,
+   "ClosePrice": 24.42,
+   "Adj Close": 23.038637,
+   "VolumeNumber": 20109836
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-10 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.9,
+   "HighPrice": 25.049999,
+   "LowPrice": 24.655001,
+   "ClosePrice": 24.940001,
+   "Adj Close": 23.529222,
+   "VolumeNumber": 14250626
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-13 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.85,
+   "HighPrice": 24.85,
+   "LowPrice": 24.35,
+   "ClosePrice": 24.84,
+   "Adj Close": 23.434879,
+   "VolumeNumber": 10356768
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-14 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.65,
+   "HighPrice": 24.77,
+   "LowPrice": 24.540001,
+   "ClosePrice": 24.549999,
+   "Adj Close": 23.161282,
+   "VolumeNumber": 10312909
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-15 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.1,
+   "HighPrice": 24.35,
+   "LowPrice": 23.76,
+   "ClosePrice": 23.98,
+   "Adj Close": 22.623526,
+   "VolumeNumber": 8328853
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-16 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.76,
+   "HighPrice": 24.344999,
+   "LowPrice": 23.6,
+   "ClosePrice": 24.059999,
+   "Adj Close": 22.698999,
+   "VolumeNumber": 9304350
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-17 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.200001,
+   "HighPrice": 24.24,
+   "LowPrice": 23.969999,
+   "ClosePrice": 24.1,
+   "Adj Close": 22.736738,
+   "VolumeNumber": 5334524
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-20 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.110001,
+   "HighPrice": 24.34,
+   "LowPrice": 24.02,
+   "ClosePrice": 24.280001,
+   "Adj Close": 22.906555,
+   "VolumeNumber": 6331968
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-21 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.74,
+   "HighPrice": 25.35,
+   "LowPrice": 24.639999,
+   "ClosePrice": 25.24,
+   "Adj Close": 23.812252,
+   "VolumeNumber": 10843115
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-22 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.690001,
+   "HighPrice": 25.99,
+   "LowPrice": 25.58,
+   "ClosePrice": 25.91,
+   "Adj Close": 24.444351,
+   "VolumeNumber": 11773552
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-23 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.09,
+   "HighPrice": 26.16,
+   "LowPrice": 25.77,
+   "ClosePrice": 25.91,
+   "Adj Close": 24.444351,
+   "VolumeNumber": 8160822
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-24 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.99,
+   "HighPrice": 26.700001,
+   "LowPrice": 25.92,
+   "ClosePrice": 26.5,
+   "Adj Close": 25.000977,
+   "VolumeNumber": 25346201
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-27 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.93,
+   "HighPrice": 25.99,
+   "LowPrice": 25.77,
+   "ClosePrice": 25.809999,
+   "Adj Close": 24.350008,
+   "VolumeNumber": 7871556
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-28 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.549999,
+   "HighPrice": 25.879999,
+   "LowPrice": 25.459999,
+   "ClosePrice": 25.459999,
+   "Adj Close": 24.019806,
+   "VolumeNumber": 9288037
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-29 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.91,
+   "HighPrice": 24.940001,
+   "LowPrice": 24.41,
+   "ClosePrice": 24.41,
+   "Adj Close": 23.029202,
+   "VolumeNumber": 19615715
+   }
+},
+{ 
+"MoteTimestamp": "2016-11-30 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.51,
+   "HighPrice": 25.715,
+   "LowPrice": 25.305,
+   "ClosePrice": 25.610001,
+   "Adj Close": 24.161324,
+   "VolumeNumber": 14943997
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-01 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.559999,
+   "HighPrice": 25.65,
+   "LowPrice": 24.84,
+   "ClosePrice": 25.02,
+   "Adj Close": 23.604696,
+   "VolumeNumber": 13679529
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-04 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.120001,
+   "HighPrice": 25.264999,
+   "LowPrice": 24.84,
+   "ClosePrice": 25.18,
+   "Adj Close": 23.755646,
+   "VolumeNumber": 7306940
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.950001,
+   "HighPrice": 26.07,
+   "LowPrice": 25.469999,
+   "ClosePrice": 25.48,
+   "Adj Close": 24.038675,
+   "VolumeNumber": 10158882
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-06 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.719999,
+   "HighPrice": 25.865,
+   "LowPrice": 25.549999,
+   "ClosePrice": 25.73,
+   "Adj Close": 24.274532,
+   "VolumeNumber": 6182420
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-07 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.040001,
+   "HighPrice": 26.24,
+   "LowPrice": 25.9,
+   "ClosePrice": 26.040001,
+   "Adj Close": 24.566998,
+   "VolumeNumber": 7432951
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-08 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.16,
+   "HighPrice": 26.23,
+   "LowPrice": 25.834999,
+   "ClosePrice": 25.98,
+   "Adj Close": 24.510393,
+   "VolumeNumber": 6922370
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-11 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.950001,
+   "HighPrice": 26.5,
+   "LowPrice": 25.950001,
+   "ClosePrice": 26.32,
+   "Adj Close": 24.83116,
+   "VolumeNumber": 7240785
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-12 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.27,
+   "HighPrice": 26.66,
+   "LowPrice": 26.120001,
+   "ClosePrice": 26.120001,
+   "Adj Close": 24.642473,
+   "VolumeNumber": 9479608
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-13 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.9,
+   "HighPrice": 26.16,
+   "LowPrice": 25.76,
+   "ClosePrice": 25.799999,
+   "Adj Close": 24.340572,
+   "VolumeNumber": 9598747
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-14 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.450001,
+   "HighPrice": 25.549999,
+   "LowPrice": 25.209999,
+   "ClosePrice": 25.33,
+   "Adj Close": 23.89716,
+   "VolumeNumber": 10821899
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-15 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.02,
+   "HighPrice": 25.379999,
+   "LowPrice": 24.75,
+   "ClosePrice": 25,
+   "Adj Close": 23.585829,
+   "VolumeNumber": 16222607
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-18 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.040001,
+   "HighPrice": 25.299999,
+   "LowPrice": 24.879999,
+   "ClosePrice": 25.09,
+   "Adj Close": 23.670736,
+   "VolumeNumber": 5913301
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.799999,
+   "HighPrice": 25.045,
+   "LowPrice": 24.67,
+   "ClosePrice": 24.91,
+   "Adj Close": 23.500919,
+   "VolumeNumber": 9284962
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-20 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.049999,
+   "HighPrice": 25.309999,
+   "LowPrice": 25,
+   "ClosePrice": 25.17,
+   "Adj Close": 23.746212,
+   "VolumeNumber": 7266043
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-21 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.83,
+   "HighPrice": 25.23,
+   "LowPrice": 24.83,
+   "ClosePrice": 25.139999,
+   "Adj Close": 23.717909,
+   "VolumeNumber": 6072629
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-22 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.809999,
+   "HighPrice": 24.860001,
+   "LowPrice": 24.610001,
+   "ClosePrice": 24.629999,
+   "Adj Close": 23.236757,
+   "VolumeNumber": 19287483
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-27 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.629999,
+   "HighPrice": 25.6,
+   "LowPrice": 24.629999,
+   "ClosePrice": 25.440001,
+   "Adj Close": 24.000938,
+   "VolumeNumber": 6865682
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-28 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.450001,
+   "HighPrice": 25.555,
+   "LowPrice": 25.27,
+   "ClosePrice": 25.5,
+   "Adj Close": 24.057543,
+   "VolumeNumber": 3558996
+   }
+},
+{ 
+"MoteTimestamp": "2016-12-29 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.15,
+   "HighPrice": 25.280001,
+   "LowPrice": 25.059999,
+   "ClosePrice": 25.059999,
+   "Adj Close": 23.642431,
+   "VolumeNumber": 4920791
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-02 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.059999,
+   "HighPrice": 25.549999,
+   "LowPrice": 24.959999,
+   "ClosePrice": 25.459999,
+   "Adj Close": 24.019806,
+   "VolumeNumber": 5395237
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-03 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.51,
+   "HighPrice": 25.68,
+   "LowPrice": 25.51,
+   "ClosePrice": 25.610001,
+   "Adj Close": 24.161324,
+   "VolumeNumber": 4917567
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-04 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.610001,
+   "HighPrice": 25.73,
+   "LowPrice": 25.549999,
+   "ClosePrice": 25.629999,
+   "Adj Close": 24.180189,
+   "VolumeNumber": 5333638
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.58,
+   "HighPrice": 25.754999,
+   "LowPrice": 25.389999,
+   "ClosePrice": 25.5,
+   "Adj Close": 24.057543,
+   "VolumeNumber": 4121721
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-08 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.299999,
+   "HighPrice": 25.620001,
+   "LowPrice": 25.24,
+   "ClosePrice": 25.469999,
+   "Adj Close": 24.02924,
+   "VolumeNumber": 5706255
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-09 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.15,
+   "HighPrice": 25.4,
+   "LowPrice": 25.110001,
+   "ClosePrice": 25.360001,
+   "Adj Close": 23.925463,
+   "VolumeNumber": 7027142
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-10 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.02,
+   "HighPrice": 26.32,
+   "LowPrice": 26.02,
+   "ClosePrice": 26.02,
+   "Adj Close": 24.54813,
+   "VolumeNumber": 8362718
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-11 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.41,
+   "HighPrice": 26.49,
+   "LowPrice": 26.280001,
+   "ClosePrice": 26.360001,
+   "Adj Close": 24.868898,
+   "VolumeNumber": 7459122
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-12 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.5,
+   "HighPrice": 26.59,
+   "LowPrice": 26.23,
+   "ClosePrice": 26.33,
+   "Adj Close": 24.840593,
+   "VolumeNumber": 15898254
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-15 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.639999,
+   "HighPrice": 26.870001,
+   "LowPrice": 26.620001,
+   "ClosePrice": 26.77,
+   "Adj Close": 25.255705,
+   "VolumeNumber": 6693761
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-16 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.549999,
+   "HighPrice": 26.969999,
+   "LowPrice": 26.549999,
+   "ClosePrice": 26.709999,
+   "Adj Close": 25.199097,
+   "VolumeNumber": 9357257
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-17 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.4,
+   "HighPrice": 26.68,
+   "LowPrice": 26.299999,
+   "ClosePrice": 26.52,
+   "Adj Close": 25.019846,
+   "VolumeNumber": 7152228
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-18 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.85,
+   "HighPrice": 26.860001,
+   "LowPrice": 26.594999,
+   "ClosePrice": 26.690001,
+   "Adj Close": 25.180229,
+   "VolumeNumber": 5569232
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.5,
+   "HighPrice": 26.6,
+   "LowPrice": 26.280001,
+   "ClosePrice": 26.35,
+   "Adj Close": 24.859461,
+   "VolumeNumber": 4767294
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-22 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.52,
+   "HighPrice": 26.6,
+   "LowPrice": 26.190001,
+   "ClosePrice": 26.370001,
+   "Adj Close": 24.878332,
+   "VolumeNumber": 6119653
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-23 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.58,
+   "HighPrice": 27.07,
+   "LowPrice": 26.5,
+   "ClosePrice": 27.01,
+   "Adj Close": 25.482128,
+   "VolumeNumber": 8812342
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-24 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.52,
+   "HighPrice": 27.950001,
+   "LowPrice": 27.4,
+   "ClosePrice": 27.889999,
+   "Adj Close": 26.312349,
+   "VolumeNumber": 17387845
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-26 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.889999,
+   "HighPrice": 27.889999,
+   "LowPrice": 27.285,
+   "ClosePrice": 27.52,
+   "Adj Close": 25.96328,
+   "VolumeNumber": 7373739
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-29 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.219999,
+   "HighPrice": 27.450001,
+   "LowPrice": 26.940001,
+   "ClosePrice": 27.360001,
+   "Adj Close": 25.81233,
+   "VolumeNumber": 4700144
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-30 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.809999,
+   "HighPrice": 27.08,
+   "LowPrice": 26.52,
+   "ClosePrice": 26.639999,
+   "Adj Close": 25.133057,
+   "VolumeNumber": 7693598
+   }
+},
+{ 
+"MoteTimestamp": "2017-01-31 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.200001,
+   "HighPrice": 27.219999,
+   "LowPrice": 26.93,
+   "ClosePrice": 27.08,
+   "Adj Close": 25.548168,
+   "VolumeNumber": 5360147
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-01 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.25,
+   "HighPrice": 27.34,
+   "LowPrice": 26.93,
+   "ClosePrice": 27.040001,
+   "Adj Close": 25.510433,
+   "VolumeNumber": 4417310
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-02 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.610001,
+   "HighPrice": 26.860001,
+   "LowPrice": 26.145,
+   "ClosePrice": 26.200001,
+   "Adj Close": 24.717949,
+   "VolumeNumber": 7384103
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.709999,
+   "HighPrice": 26.084999,
+   "LowPrice": 25.67,
+   "ClosePrice": 25.91,
+   "Adj Close": 24.444351,
+   "VolumeNumber": 8228418
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-06 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.799999,
+   "HighPrice": 26.040001,
+   "LowPrice": 25.719999,
+   "ClosePrice": 25.959999,
+   "Adj Close": 24.491522,
+   "VolumeNumber": 6732283
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-07 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.76,
+   "HighPrice": 25.9,
+   "LowPrice": 25.65,
+   "ClosePrice": 25.74,
+   "Adj Close": 24.283966,
+   "VolumeNumber": 7019140
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-08 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.450001,
+   "HighPrice": 25.540001,
+   "LowPrice": 25.25,
+   "ClosePrice": 25.42,
+   "Adj Close": 23.982069,
+   "VolumeNumber": 7907778
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-09 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.73,
+   "HighPrice": 25.99,
+   "LowPrice": 25.725,
+   "ClosePrice": 25.879999,
+   "Adj Close": 24.416048,
+   "VolumeNumber": 6958644
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-12 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.1,
+   "HighPrice": 26.620001,
+   "LowPrice": 26.1,
+   "ClosePrice": 26.450001,
+   "Adj Close": 24.953806,
+   "VolumeNumber": 7651040
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-13 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.549999,
+   "HighPrice": 26.75,
+   "LowPrice": 26.209999,
+   "ClosePrice": 26.209999,
+   "Adj Close": 24.727381,
+   "VolumeNumber": 5895532
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-14 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.52,
+   "HighPrice": 26.665001,
+   "LowPrice": 26.41,
+   "ClosePrice": 26.540001,
+   "Adj Close": 25.038715,
+   "VolumeNumber": 8103424
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-15 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.549999,
+   "HighPrice": 26.969999,
+   "LowPrice": 26.530001,
+   "ClosePrice": 26.940001,
+   "Adj Close": 25.416088,
+   "VolumeNumber": 10720458
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-16 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.66,
+   "HighPrice": 26.719999,
+   "LowPrice": 26.370001,
+   "ClosePrice": 26.639999,
+   "Adj Close": 25.133057,
+   "VolumeNumber": 7094688
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.450001,
+   "HighPrice": 26.610001,
+   "LowPrice": 26.334999,
+   "ClosePrice": 26.469999,
+   "Adj Close": 24.972673,
+   "VolumeNumber": 5658087
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-20 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.6,
+   "HighPrice": 26.92,
+   "LowPrice": 26.52,
+   "ClosePrice": 26.73,
+   "Adj Close": 25.217968,
+   "VolumeNumber": 6226696
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-21 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.73,
+   "HighPrice": 26.77,
+   "LowPrice": 26.4,
+   "ClosePrice": 26.549999,
+   "Adj Close": 25.048147,
+   "VolumeNumber": 6254410
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-22 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.889999,
+   "HighPrice": 25.975,
+   "LowPrice": 25.76,
+   "ClosePrice": 25.84,
+   "Adj Close": 24.378311,
+   "VolumeNumber": 10681642
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-23 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.33,
+   "HighPrice": 25.389999,
+   "LowPrice": 24.959999,
+   "ClosePrice": 25.059999,
+   "Adj Close": 23.642431,
+   "VolumeNumber": 15061558
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-26 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.809999,
+   "HighPrice": 25.139999,
+   "LowPrice": 24.77,
+   "ClosePrice": 24.99,
+   "Adj Close": 23.576393,
+   "VolumeNumber": 12386168
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-27 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.200001,
+   "HighPrice": 25.389999,
+   "LowPrice": 25,
+   "ClosePrice": 25,
+   "Adj Close": 23.585829,
+   "VolumeNumber": 11820790
+   }
+},
+{ 
+"MoteTimestamp": "2017-02-28 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.620001,
+   "HighPrice": 24.889999,
+   "LowPrice": 24.584999,
+   "ClosePrice": 24.879999,
+   "Adj Close": 23.472614,
+   "VolumeNumber": 11587485
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-01 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.5,
+   "HighPrice": 25.780001,
+   "LowPrice": 25.42,
+   "ClosePrice": 25.700001,
+   "Adj Close": 24.246231,
+   "VolumeNumber": 9234982
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-02 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.309999,
+   "HighPrice": 25.549999,
+   "LowPrice": 25.190001,
+   "ClosePrice": 25.34,
+   "Adj Close": 23.906595,
+   "VolumeNumber": 9452142
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.6,
+   "HighPrice": 25.77,
+   "LowPrice": 25.540001,
+   "ClosePrice": 25.75,
+   "Adj Close": 24.293404,
+   "VolumeNumber": 5329600
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-06 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.35,
+   "HighPrice": 25.68,
+   "LowPrice": 25.309999,
+   "ClosePrice": 25.5,
+   "Adj Close": 24.057543,
+   "VolumeNumber": 8622198
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-07 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.25,
+   "HighPrice": 25.379999,
+   "LowPrice": 25.129999,
+   "ClosePrice": 25.23,
+   "Adj Close": 23.802816,
+   "VolumeNumber": 7114038
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-08 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.1,
+   "HighPrice": 24.309999,
+   "LowPrice": 23.889999,
+   "ClosePrice": 23.959999,
+   "Adj Close": 23.306435,
+   "VolumeNumber": 14669946
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-09 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.700001,
+   "HighPrice": 23.879999,
+   "LowPrice": 23.545,
+   "ClosePrice": 23.67,
+   "Adj Close": 23.024347,
+   "VolumeNumber": 10166002
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-12 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.67,
+   "HighPrice": 23.67,
+   "LowPrice": 23.4,
+   "ClosePrice": 23.65,
+   "Adj Close": 23.004892,
+   "VolumeNumber": 6678365
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-13 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24,
+   "HighPrice": 24.15,
+   "LowPrice": 23.790001,
+   "ClosePrice": 23.870001,
+   "Adj Close": 23.218891,
+   "VolumeNumber": 6719024
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-14 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24,
+   "HighPrice": 24.26,
+   "LowPrice": 23.9,
+   "ClosePrice": 24.219999,
+   "Adj Close": 23.559343,
+   "VolumeNumber": 6098290
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-15 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.639999,
+   "HighPrice": 25.129999,
+   "LowPrice": 24.629999,
+   "ClosePrice": 25.120001,
+   "Adj Close": 24.434795,
+   "VolumeNumber": 17224046
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-16 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.860001,
+   "HighPrice": 25.08,
+   "LowPrice": 24.809999,
+   "ClosePrice": 24.84,
+   "Adj Close": 24.162432,
+   "VolumeNumber": 9142686
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.73,
+   "HighPrice": 24.91,
+   "LowPrice": 24.709999,
+   "ClosePrice": 24.879999,
+   "Adj Close": 24.20134,
+   "VolumeNumber": 3952921
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-20 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.879999,
+   "HighPrice": 24.959999,
+   "LowPrice": 24.57,
+   "ClosePrice": 24.639999,
+   "Adj Close": 23.967888,
+   "VolumeNumber": 4809949
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-21 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.950001,
+   "HighPrice": 24.15,
+   "LowPrice": 23.92,
+   "ClosePrice": 23.92,
+   "Adj Close": 23.267527,
+   "VolumeNumber": 9481912
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-22 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.25,
+   "HighPrice": 24.34,
+   "LowPrice": 24.120001,
+   "ClosePrice": 24.190001,
+   "Adj Close": 23.530163,
+   "VolumeNumber": 6404093
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-23 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.01,
+   "HighPrice": 24.42,
+   "LowPrice": 24,
+   "ClosePrice": 24.26,
+   "Adj Close": 23.598253,
+   "VolumeNumber": 5226294
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-26 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.719999,
+   "HighPrice": 23.73,
+   "LowPrice": 23.469999,
+   "ClosePrice": 23.549999,
+   "Adj Close": 22.907619,
+   "VolumeNumber": 8846326
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-27 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.6,
+   "HighPrice": 23.99,
+   "LowPrice": 23.59,
+   "ClosePrice": 23.9,
+   "Adj Close": 23.248072,
+   "VolumeNumber": 9044413
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-28 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24,
+   "HighPrice": 24.16,
+   "LowPrice": 23.92,
+   "ClosePrice": 23.969999,
+   "Adj Close": 23.316162,
+   "VolumeNumber": 8044873
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-29 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.15,
+   "HighPrice": 24.33,
+   "LowPrice": 23.995001,
+   "ClosePrice": 24.07,
+   "Adj Close": 23.413435,
+   "VolumeNumber": 7291011
+   }
+},
+{ 
+"MoteTimestamp": "2017-03-30 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.110001,
+   "HighPrice": 24.23,
+   "LowPrice": 23.92,
+   "ClosePrice": 24.040001,
+   "Adj Close": 23.384254,
+   "VolumeNumber": 11568699
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-03 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.85,
+   "HighPrice": 24.030001,
+   "LowPrice": 23.65,
+   "ClosePrice": 24,
+   "Adj Close": 23.345345,
+   "VolumeNumber": 5902712
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-04 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.9,
+   "HighPrice": 24.139999,
+   "LowPrice": 23.790001,
+   "ClosePrice": 23.92,
+   "Adj Close": 23.267527,
+   "VolumeNumber": 5029378
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.33,
+   "HighPrice": 24.780001,
+   "LowPrice": 24.33,
+   "ClosePrice": 24.75,
+   "Adj Close": 24.074886,
+   "VolumeNumber": 9679364
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-06 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.57,
+   "HighPrice": 24.719999,
+   "LowPrice": 24.469999,
+   "ClosePrice": 24.67,
+   "Adj Close": 23.997068,
+   "VolumeNumber": 6264960
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-07 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.559999,
+   "HighPrice": 24.780001,
+   "LowPrice": 24.42,
+   "ClosePrice": 24.59,
+   "Adj Close": 23.919252,
+   "VolumeNumber": 7923310
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-10 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.65,
+   "HighPrice": 25.790001,
+   "LowPrice": 24.629999,
+   "ClosePrice": 25.73,
+   "Adj Close": 25.028154,
+   "VolumeNumber": 11809376
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-11 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.35,
+   "HighPrice": 25.535,
+   "LowPrice": 25.120001,
+   "ClosePrice": 25.41,
+   "Adj Close": 24.716885,
+   "VolumeNumber": 9267700
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-12 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.559999,
+   "HighPrice": 25.639999,
+   "LowPrice": 25.065001,
+   "ClosePrice": 25.32,
+   "Adj Close": 24.629339,
+   "VolumeNumber": 8894527
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-13 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.4,
+   "HighPrice": 24.469999,
+   "LowPrice": 24.209999,
+   "ClosePrice": 24.309999,
+   "Adj Close": 23.646889,
+   "VolumeNumber": 10715182
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-18 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.309999,
+   "HighPrice": 24.309999,
+   "LowPrice": 23.77,
+   "ClosePrice": 23.93,
+   "Adj Close": 23.277254,
+   "VolumeNumber": 8467272
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.5,
+   "HighPrice": 24.049999,
+   "LowPrice": 23.33,
+   "ClosePrice": 23.92,
+   "Adj Close": 23.267527,
+   "VolumeNumber": 8613891
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-20 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.639999,
+   "HighPrice": 23.950001,
+   "LowPrice": 23.52,
+   "ClosePrice": 23.65,
+   "Adj Close": 23.004892,
+   "VolumeNumber": 8222176
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-21 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.959999,
+   "HighPrice": 24.120001,
+   "LowPrice": 23.959999,
+   "ClosePrice": 24.040001,
+   "Adj Close": 23.384254,
+   "VolumeNumber": 5661771
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-24 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.139999,
+   "HighPrice": 24.16,
+   "LowPrice": 23.73,
+   "ClosePrice": 23.940001,
+   "Adj Close": 23.286982,
+   "VolumeNumber": 4909695
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-26 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.940001,
+   "HighPrice": 24.24,
+   "LowPrice": 23.93,
+   "ClosePrice": 24.08,
+   "Adj Close": 23.423162,
+   "VolumeNumber": 8407298
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-27 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.200001,
+   "HighPrice": 24.200001,
+   "LowPrice": 23.780001,
+   "ClosePrice": 23.870001,
+   "Adj Close": 23.218891,
+   "VolumeNumber": 6516105
+   }
+},
+{ 
+"MoteTimestamp": "2017-04-28 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.389999,
+   "HighPrice": 23.799999,
+   "LowPrice": 23.32,
+   "ClosePrice": 23.719999,
+   "Adj Close": 23.072983,
+   "VolumeNumber": 11182018
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-01 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.700001,
+   "HighPrice": 23.940001,
+   "LowPrice": 23.625,
+   "ClosePrice": 23.879999,
+   "Adj Close": 23.228617,
+   "VolumeNumber": 6003898
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-02 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.780001,
+   "HighPrice": 23.969999,
+   "LowPrice": 23.65,
+   "ClosePrice": 23.76,
+   "Adj Close": 23.111893,
+   "VolumeNumber": 7251111
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-03 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.52,
+   "HighPrice": 23.540001,
+   "LowPrice": 23.139999,
+   "ClosePrice": 23.209999,
+   "Adj Close": 22.576893,
+   "VolumeNumber": 13805258
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-04 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.02,
+   "HighPrice": 23.290001,
+   "LowPrice": 22.92,
+   "ClosePrice": 23.24,
+   "Adj Close": 22.606075,
+   "VolumeNumber": 8641527
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.83,
+   "HighPrice": 22.84,
+   "LowPrice": 22.52,
+   "ClosePrice": 22.620001,
+   "Adj Close": 22.002989,
+   "VolumeNumber": 12231492
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-08 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.18,
+   "HighPrice": 23.370001,
+   "LowPrice": 22.9,
+   "ClosePrice": 22.969999,
+   "Adj Close": 22.343439,
+   "VolumeNumber": 10660685
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-09 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.059999,
+   "HighPrice": 23.16,
+   "LowPrice": 22.879999,
+   "ClosePrice": 23.16,
+   "Adj Close": 22.528257,
+   "VolumeNumber": 5845875
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-10 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.4,
+   "HighPrice": 23.629999,
+   "LowPrice": 23.24,
+   "ClosePrice": 23.51,
+   "Adj Close": 22.868711,
+   "VolumeNumber": 6561903
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-11 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.799999,
+   "HighPrice": 23.950001,
+   "LowPrice": 23.469999,
+   "ClosePrice": 23.6,
+   "Adj Close": 22.956257,
+   "VolumeNumber": 8826617
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-12 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.799999,
+   "HighPrice": 23.9,
+   "LowPrice": 23.68,
+   "ClosePrice": 23.75,
+   "Adj Close": 23.102165,
+   "VolumeNumber": 5149501
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-15 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.610001,
+   "HighPrice": 23.82,
+   "LowPrice": 23.51,
+   "ClosePrice": 23.82,
+   "Adj Close": 23.170254,
+   "VolumeNumber": 6688261
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-16 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.030001,
+   "HighPrice": 24.139999,
+   "LowPrice": 23.860001,
+   "ClosePrice": 24.02,
+   "Adj Close": 23.364799,
+   "VolumeNumber": 8048513
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-17 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.190001,
+   "HighPrice": 24.23,
+   "LowPrice": 24.040001,
+   "ClosePrice": 24.07,
+   "Adj Close": 23.413435,
+   "VolumeNumber": 5982658
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-18 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.83,
+   "HighPrice": 24.040001,
+   "LowPrice": 23.764999,
+   "ClosePrice": 23.950001,
+   "Adj Close": 23.296709,
+   "VolumeNumber": 8238392
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.110001,
+   "HighPrice": 24.41,
+   "LowPrice": 24.07,
+   "ClosePrice": 24.280001,
+   "Adj Close": 23.617708,
+   "VolumeNumber": 7965999
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-22 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.549999,
+   "HighPrice": 24.795,
+   "LowPrice": 24.549999,
+   "ClosePrice": 24.629999,
+   "Adj Close": 23.95816,
+   "VolumeNumber": 7522485
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-23 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.559999,
+   "HighPrice": 24.690001,
+   "LowPrice": 24.24,
+   "ClosePrice": 24.34,
+   "Adj Close": 23.676071,
+   "VolumeNumber": 6654585
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-24 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.360001,
+   "HighPrice": 24.5,
+   "LowPrice": 24.02,
+   "ClosePrice": 24.200001,
+   "Adj Close": 23.53989,
+   "VolumeNumber": 7912581
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-25 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.219999,
+   "HighPrice": 24.5,
+   "LowPrice": 24.139999,
+   "ClosePrice": 24.5,
+   "Adj Close": 23.831707,
+   "VolumeNumber": 5562523
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-26 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.209999,
+   "HighPrice": 24.290001,
+   "LowPrice": 23.75,
+   "ClosePrice": 24.01,
+   "Adj Close": 23.355072,
+   "VolumeNumber": 10606431
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-29 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.99,
+   "HighPrice": 24.07,
+   "LowPrice": 23.77,
+   "ClosePrice": 23.84,
+   "Adj Close": 23.189709,
+   "VolumeNumber": 3978523
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-30 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.84,
+   "HighPrice": 24.139999,
+   "LowPrice": 23.82,
+   "ClosePrice": 24,
+   "Adj Close": 23.345345,
+   "VolumeNumber": 4413359
+   }
+},
+{ 
+"MoteTimestamp": "2017-05-31 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24,
+   "HighPrice": 24.09,
+   "LowPrice": 23.76,
+   "ClosePrice": 23.9,
+   "Adj Close": 23.248072,
+   "VolumeNumber": 9204129
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-01 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.540001,
+   "HighPrice": 23.73,
+   "LowPrice": 23.469999,
+   "ClosePrice": 23.73,
+   "Adj Close": 23.08271,
+   "VolumeNumber": 7887026
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-02 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.799999,
+   "HighPrice": 24.129999,
+   "LowPrice": 23.799999,
+   "ClosePrice": 24.07,
+   "Adj Close": 23.413435,
+   "VolumeNumber": 7208456
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.65,
+   "HighPrice": 23.799999,
+   "LowPrice": 23.530001,
+   "ClosePrice": 23.66,
+   "Adj Close": 23.01462,
+   "VolumeNumber": 12778694
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-06 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.41,
+   "HighPrice": 23.51,
+   "LowPrice": 23.299999,
+   "ClosePrice": 23.34,
+   "Adj Close": 22.703348,
+   "VolumeNumber": 8196597
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-07 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.379999,
+   "HighPrice": 23.469999,
+   "LowPrice": 23.139999,
+   "ClosePrice": 23.190001,
+   "Adj Close": 22.55744,
+   "VolumeNumber": 12638096
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-08 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.09,
+   "HighPrice": 23.33,
+   "LowPrice": 22.959999,
+   "ClosePrice": 23.309999,
+   "Adj Close": 22.674166,
+   "VolumeNumber": 8346545
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-09 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.360001,
+   "HighPrice": 23.745001,
+   "LowPrice": 23.25,
+   "ClosePrice": 23.540001,
+   "Adj Close": 22.897894,
+   "VolumeNumber": 11056244
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-13 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.540001,
+   "HighPrice": 23.68,
+   "LowPrice": 23.26,
+   "ClosePrice": 23.67,
+   "Adj Close": 23.024347,
+   "VolumeNumber": 10017111
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-14 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.58,
+   "HighPrice": 24,
+   "LowPrice": 23.549999,
+   "ClosePrice": 23.690001,
+   "Adj Close": 23.043802,
+   "VolumeNumber": 15544606
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-15 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.99,
+   "HighPrice": 23.200001,
+   "LowPrice": 22.93,
+   "ClosePrice": 23.01,
+   "Adj Close": 22.382349,
+   "VolumeNumber": 26333884
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-16 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.809999,
+   "HighPrice": 23.16,
+   "LowPrice": 22.76,
+   "ClosePrice": 22.99,
+   "Adj Close": 22.362894,
+   "VolumeNumber": 12694857
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.780001,
+   "HighPrice": 23.110001,
+   "LowPrice": 22.780001,
+   "ClosePrice": 23,
+   "Adj Close": 22.372622,
+   "VolumeNumber": 10284878
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-20 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.09,
+   "HighPrice": 23.209999,
+   "LowPrice": 22.959999,
+   "ClosePrice": 22.959999,
+   "Adj Close": 22.333712,
+   "VolumeNumber": 9783876
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-21 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.389999,
+   "HighPrice": 22.4,
+   "LowPrice": 22.059999,
+   "ClosePrice": 22.1,
+   "Adj Close": 21.497171,
+   "VolumeNumber": 12728124
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-22 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.280001,
+   "HighPrice": 22.43,
+   "LowPrice": 22.15,
+   "ClosePrice": 22.15,
+   "Adj Close": 21.545807,
+   "VolumeNumber": 7206879
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-23 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.459999,
+   "HighPrice": 22.48,
+   "LowPrice": 22.299999,
+   "ClosePrice": 22.41,
+   "Adj Close": 21.798716,
+   "VolumeNumber": 7165900
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-26 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.48,
+   "HighPrice": 22.555,
+   "LowPrice": 22.41,
+   "ClosePrice": 22.450001,
+   "Adj Close": 21.837626,
+   "VolumeNumber": 5291758
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-27 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.41,
+   "HighPrice": 22.530001,
+   "LowPrice": 22.165001,
+   "ClosePrice": 22.459999,
+   "Adj Close": 21.847351,
+   "VolumeNumber": 7302856
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-28 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 22.68,
+   "HighPrice": 23.01,
+   "LowPrice": 22.67,
+   "ClosePrice": 22.889999,
+   "Adj Close": 22.265623,
+   "VolumeNumber": 11232381
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-29 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.200001,
+   "HighPrice": 23.49,
+   "LowPrice": 23.18,
+   "ClosePrice": 23.48,
+   "Adj Close": 22.839529,
+   "VolumeNumber": 9774047
+   }
+},
+{ 
+"MoteTimestamp": "2017-06-30 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.190001,
+   "HighPrice": 23.41,
+   "LowPrice": 23.16,
+   "ClosePrice": 23.280001,
+   "Adj Close": 22.644985,
+   "VolumeNumber": 12699105
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-03 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.129999,
+   "HighPrice": 23.485001,
+   "LowPrice": 23.07,
+   "ClosePrice": 23.23,
+   "Adj Close": 22.596348,
+   "VolumeNumber": 7313438
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-04 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.66,
+   "HighPrice": 23.905001,
+   "LowPrice": 23.65,
+   "ClosePrice": 23.76,
+   "Adj Close": 23.111893,
+   "VolumeNumber": 9054123
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 23.99,
+   "HighPrice": 24.299999,
+   "LowPrice": 23.9,
+   "ClosePrice": 24.15,
+   "Adj Close": 23.491253,
+   "VolumeNumber": 9176840
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-06 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.08,
+   "HighPrice": 24.41,
+   "LowPrice": 24.059999,
+   "ClosePrice": 24.299999,
+   "Adj Close": 23.637161,
+   "VolumeNumber": 10665039
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-07 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.16,
+   "HighPrice": 24.66,
+   "LowPrice": 24.15,
+   "ClosePrice": 24.59,
+   "Adj Close": 23.919252,
+   "VolumeNumber": 11959674
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-10 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.549999,
+   "HighPrice": 24.57,
+   "LowPrice": 24.389999,
+   "ClosePrice": 24.52,
+   "Adj Close": 23.851162,
+   "VolumeNumber": 7563826
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-11 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.74,
+   "HighPrice": 24.82,
+   "LowPrice": 24.629999,
+   "ClosePrice": 24.780001,
+   "Adj Close": 24.104069,
+   "VolumeNumber": 6520487
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-12 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.98,
+   "HighPrice": 24.99,
+   "LowPrice": 24.83,
+   "ClosePrice": 24.879999,
+   "Adj Close": 24.20134,
+   "VolumeNumber": 8834432
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-13 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25,
+   "HighPrice": 25.059999,
+   "LowPrice": 24.85,
+   "ClosePrice": 25,
+   "Adj Close": 24.318068,
+   "VolumeNumber": 7439756
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-14 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.049999,
+   "HighPrice": 25.209999,
+   "LowPrice": 25.01,
+   "ClosePrice": 25.129999,
+   "Adj Close": 24.444521,
+   "VolumeNumber": 6925413
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-17 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.1,
+   "HighPrice": 25.299999,
+   "LowPrice": 25.059999,
+   "ClosePrice": 25.17,
+   "Adj Close": 24.483431,
+   "VolumeNumber": 4313342
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-18 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.450001,
+   "HighPrice": 25.530001,
+   "LowPrice": 25.01,
+   "ClosePrice": 25.1,
+   "Adj Close": 24.41534,
+   "VolumeNumber": 8367783
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.01,
+   "HighPrice": 25.059999,
+   "LowPrice": 24.459999,
+   "ClosePrice": 24.83,
+   "Adj Close": 24.152704,
+   "VolumeNumber": 7326682
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-20 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.9,
+   "HighPrice": 25.105,
+   "LowPrice": 24.860001,
+   "ClosePrice": 24.969999,
+   "Adj Close": 24.288885,
+   "VolumeNumber": 6762570
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-21 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.6,
+   "HighPrice": 24.620001,
+   "LowPrice": 24.389999,
+   "ClosePrice": 24.49,
+   "Adj Close": 23.82198,
+   "VolumeNumber": 7619060
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-24 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.48,
+   "HighPrice": 24.49,
+   "LowPrice": 24.280001,
+   "ClosePrice": 24.4,
+   "Adj Close": 23.734434,
+   "VolumeNumber": 5301062
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-25 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 24.440001,
+   "HighPrice": 24.645,
+   "LowPrice": 24.43,
+   "ClosePrice": 24.559999,
+   "Adj Close": 23.89007,
+   "VolumeNumber": 5344766
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-26 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.32,
+   "HighPrice": 25.459999,
+   "LowPrice": 25.219999,
+   "ClosePrice": 25.370001,
+   "Adj Close": 24.677977,
+   "VolumeNumber": 9101702
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-27 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.620001,
+   "HighPrice": 25.860001,
+   "LowPrice": 25.58,
+   "ClosePrice": 25.65,
+   "Adj Close": 24.950336,
+   "VolumeNumber": 12642808
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-28 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.59,
+   "HighPrice": 25.6,
+   "LowPrice": 25.190001,
+   "ClosePrice": 25.33,
+   "Adj Close": 24.639067,
+   "VolumeNumber": 16451654
+   }
+},
+{ 
+"MoteTimestamp": "2017-07-31 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.68,
+   "HighPrice": 26.049999,
+   "LowPrice": 25.639999,
+   "ClosePrice": 25.85,
+   "Adj Close": 25.144882,
+   "VolumeNumber": 8274611
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-01 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.059999,
+   "HighPrice": 26.245001,
+   "LowPrice": 26,
+   "ClosePrice": 26.16,
+   "Adj Close": 25.446426,
+   "VolumeNumber": 8412431
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-02 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.950001,
+   "HighPrice": 25.969999,
+   "LowPrice": 25.615,
+   "ClosePrice": 25.75,
+   "Adj Close": 25.047609,
+   "VolumeNumber": 7240016
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-03 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.68,
+   "HighPrice": 25.709999,
+   "LowPrice": 25.459999,
+   "ClosePrice": 25.639999,
+   "Adj Close": 24.940609,
+   "VolumeNumber": 6663854
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-04 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.549999,
+   "HighPrice": 25.870001,
+   "LowPrice": 25.51,
+   "ClosePrice": 25.719999,
+   "Adj Close": 25.018427,
+   "VolumeNumber": 4318451
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-07 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.01,
+   "HighPrice": 26.385,
+   "LowPrice": 26.01,
+   "ClosePrice": 26.16,
+   "Adj Close": 25.446426,
+   "VolumeNumber": 6700252
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-08 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.43,
+   "HighPrice": 26.49,
+   "LowPrice": 26.059999,
+   "ClosePrice": 26.1,
+   "Adj Close": 25.388063,
+   "VolumeNumber": 6247641
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-09 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.1,
+   "HighPrice": 26.32,
+   "LowPrice": 26.08,
+   "ClosePrice": 26.209999,
+   "Adj Close": 25.495062,
+   "VolumeNumber": 4139309
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-10 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.200001,
+   "HighPrice": 26.389999,
+   "LowPrice": 26,
+   "ClosePrice": 26.07,
+   "Adj Close": 25.358881,
+   "VolumeNumber": 5371364
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-11 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.700001,
+   "HighPrice": 25.82,
+   "LowPrice": 25.440001,
+   "ClosePrice": 25.549999,
+   "Adj Close": 24.853064,
+   "VolumeNumber": 8434517
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-14 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.639999,
+   "HighPrice": 25.799999,
+   "LowPrice": 25.549999,
+   "ClosePrice": 25.65,
+   "Adj Close": 24.950336,
+   "VolumeNumber": 5364336
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-15 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.799999,
+   "HighPrice": 25.870001,
+   "LowPrice": 25.540001,
+   "ClosePrice": 25.610001,
+   "Adj Close": 24.911428,
+   "VolumeNumber": 4958017
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-16 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.6,
+   "HighPrice": 25.67,
+   "LowPrice": 25.42,
+   "ClosePrice": 25.67,
+   "Adj Close": 24.969791,
+   "VolumeNumber": 5751154
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-17 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.940001,
+   "HighPrice": 26.049999,
+   "LowPrice": 25.870001,
+   "ClosePrice": 25.92,
+   "Adj Close": 25.212973,
+   "VolumeNumber": 7381221
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-18 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.549999,
+   "HighPrice": 25.620001,
+   "LowPrice": 25.32,
+   "ClosePrice": 25.389999,
+   "Adj Close": 24.69743,
+   "VolumeNumber": 8019970
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-21 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.42,
+   "HighPrice": 25.719999,
+   "LowPrice": 25.299999,
+   "ClosePrice": 25.700001,
+   "Adj Close": 24.998974,
+   "VolumeNumber": 9822311
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-22 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.65,
+   "HighPrice": 26.129999,
+   "LowPrice": 25.65,
+   "ClosePrice": 25.98,
+   "Adj Close": 25.271336,
+   "VolumeNumber": 8807435
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-23 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.23,
+   "HighPrice": 26.41,
+   "LowPrice": 26,
+   "ClosePrice": 26.040001,
+   "Adj Close": 25.3297,
+   "VolumeNumber": 11602231
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-24 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.299999,
+   "HighPrice": 26.6,
+   "LowPrice": 26.26,
+   "ClosePrice": 26.6,
+   "Adj Close": 25.874424,
+   "VolumeNumber": 11298728
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-25 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.58,
+   "HighPrice": 26.790001,
+   "LowPrice": 26.459999,
+   "ClosePrice": 26.68,
+   "Adj Close": 25.952242,
+   "VolumeNumber": 12772594
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-28 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.809999,
+   "HighPrice": 26.940001,
+   "LowPrice": 26.57,
+   "ClosePrice": 26.889999,
+   "Adj Close": 26.156513,
+   "VolumeNumber": 6641659
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-29 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.809999,
+   "HighPrice": 26.870001,
+   "LowPrice": 26.549999,
+   "ClosePrice": 26.870001,
+   "Adj Close": 26.13706,
+   "VolumeNumber": 7095514
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-30 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27,
+   "HighPrice": 27.139999,
+   "LowPrice": 26.879999,
+   "ClosePrice": 26.950001,
+   "Adj Close": 26.214878,
+   "VolumeNumber": 7001252
+   }
+},
+{ 
+"MoteTimestamp": "2017-08-31 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.16,
+   "HighPrice": 27.51,
+   "LowPrice": 27.1,
+   "ClosePrice": 27.379999,
+   "Adj Close": 26.633146,
+   "VolumeNumber": 9570048
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-01 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.4,
+   "HighPrice": 27.52,
+   "LowPrice": 27.209999,
+   "ClosePrice": 27.42,
+   "Adj Close": 26.672056,
+   "VolumeNumber": 5767173
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-04 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.440001,
+   "HighPrice": 27.6,
+   "LowPrice": 27.4,
+   "ClosePrice": 27.48,
+   "Adj Close": 26.730419,
+   "VolumeNumber": 4966172
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-05 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.610001,
+   "HighPrice": 27.73,
+   "LowPrice": 27.51,
+   "ClosePrice": 27.620001,
+   "Adj Close": 26.866602,
+   "VolumeNumber": 4779024
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-06 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.379999,
+   "HighPrice": 27.73,
+   "LowPrice": 27.379999,
+   "ClosePrice": 27.73,
+   "Adj Close": 26.9736,
+   "VolumeNumber": 6707770
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-07 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.549999,
+   "HighPrice": 27.58,
+   "LowPrice": 27.24,
+   "ClosePrice": 27.33,
+   "Adj Close": 27.33,
+   "VolumeNumber": 17323104
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-08 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.5,
+   "HighPrice": 27.52,
+   "LowPrice": 27.24,
+   "ClosePrice": 27.290001,
+   "Adj Close": 27.290001,
+   "VolumeNumber": 5573253
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-11 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.879999,
+   "HighPrice": 26.889999,
+   "LowPrice": 26.530001,
+   "ClosePrice": 26.799999,
+   "Adj Close": 26.799999,
+   "VolumeNumber": 7236997
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-12 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.129999,
+   "HighPrice": 27.280001,
+   "LowPrice": 27.09,
+   "ClosePrice": 27.120001,
+   "Adj Close": 27.120001,
+   "VolumeNumber": 5589837
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-13 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.42,
+   "HighPrice": 27.620001,
+   "LowPrice": 27.32,
+   "ClosePrice": 27.379999,
+   "Adj Close": 27.379999,
+   "VolumeNumber": 7223132
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-14 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 27.08,
+   "HighPrice": 27.08,
+   "LowPrice": 26.75,
+   "ClosePrice": 26.889999,
+   "Adj Close": 26.889999,
+   "VolumeNumber": 7408622
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-15 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.24,
+   "HighPrice": 26.639999,
+   "LowPrice": 26.219999,
+   "ClosePrice": 26.26,
+   "Adj Close": 26.26,
+   "VolumeNumber": 10727275
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-18 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.200001,
+   "HighPrice": 26.469999,
+   "LowPrice": 26.129999,
+   "ClosePrice": 26.280001,
+   "Adj Close": 26.280001,
+   "VolumeNumber": 5856960
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-19 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.530001,
+   "HighPrice": 26.68,
+   "LowPrice": 26.299999,
+   "ClosePrice": 26.299999,
+   "Adj Close": 26.299999,
+   "VolumeNumber": 6484434
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-20 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.280001,
+   "HighPrice": 26.309999,
+   "LowPrice": 26.045,
+   "ClosePrice": 26.190001,
+   "Adj Close": 26.190001,
+   "VolumeNumber": 5680378
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-21 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.24,
+   "HighPrice": 26.299999,
+   "LowPrice": 25.9,
+   "ClosePrice": 25.99,
+   "Adj Close": 25.99,
+   "VolumeNumber": 7023003
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-22 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.209999,
+   "HighPrice": 26.25,
+   "LowPrice": 25.889999,
+   "ClosePrice": 25.950001,
+   "Adj Close": 25.950001,
+   "VolumeNumber": 7525533
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-25 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.129999,
+   "HighPrice": 26.145,
+   "LowPrice": 25.91,
+   "ClosePrice": 25.98,
+   "Adj Close": 25.98,
+   "VolumeNumber": 8305691
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-26 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.950001,
+   "HighPrice": 26.049999,
+   "LowPrice": 25.75,
+   "ClosePrice": 25.790001,
+   "Adj Close": 25.790001,
+   "VolumeNumber": 9137133
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-27 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.75,
+   "HighPrice": 25.870001,
+   "LowPrice": 25.6,
+   "ClosePrice": 25.83,
+   "Adj Close": 25.83,
+   "VolumeNumber": 7851741
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-28 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.9,
+   "HighPrice": 25.93,
+   "LowPrice": 25.540001,
+   "ClosePrice": 25.58,
+   "Adj Close": 25.58,
+   "VolumeNumber": 13723868
+   }
+},
+{ 
+"MoteTimestamp": "2017-09-29 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.799999,
+   "HighPrice": 25.924999,
+   "LowPrice": 25.76,
+   "ClosePrice": 25.780001,
+   "Adj Close": 25.780001,
+   "VolumeNumber": 11050749
+   }
+},
+{ 
+"MoteTimestamp": "2017-10-01 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 25.93,
+   "HighPrice": 26.27,
+   "LowPrice": 25.870001,
+   "ClosePrice": 26.120001,
+   "Adj Close": 26.120001,
+   "VolumeNumber": 4121745
+   }
+},
+{ 
+"MoteTimestamp": "2017-10-02 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.26,
+   "HighPrice": 26.299999,
+   "LowPrice": 25.969999,
+   "ClosePrice": 26.15,
+   "Adj Close": 26.15,
+   "VolumeNumber": 4162115
+   }
+},
+{ 
+"MoteTimestamp": "2017-10-03 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.299999,
+   "HighPrice": 26.34,
+   "LowPrice": 25.99,
+   "ClosePrice": 26,
+   "Adj Close": 26,
+   "VolumeNumber": 6157438
+   }
+},
+{ 
+"MoteTimestamp": "2017-10-04 0:00:00",
+"MoteID": 1,
+   "StockData":{
+   "OpenPrice": 26.110001,
+   "HighPrice": 26.299999,
+   "LowPrice": 26.059999,
+   "ClosePrice": 26.09,
+   "Adj Close": 26.09,
+   "VolumeNumber": 4621759
+   }
+}
+]
