@@ -3,7 +3,7 @@ import json
 from pprint import pprint
 import os
 
-stockData = ['WPL.AX']
+stockData = ['RIO']
 
 for i in range(0,len(stockData)):
     csvfile = open(stockData[i]+'.csv', 'r')
